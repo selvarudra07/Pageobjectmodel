@@ -36,11 +36,4 @@ public class loginPOM extends global {
 	public  WebElement getLogin() {
 		return login;
 	}
-	
-
-	
-
-	
-	
-	
-}
+	}
