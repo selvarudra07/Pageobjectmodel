@@ -17,6 +17,7 @@ public class s2 {
 	driver.findElement(By.name("q")).sendKeys("Fire"+Keys.ENTER);
 	driver.navigate().back();
 	driver.close();
+	driver.quit();
 	}
 
 }
